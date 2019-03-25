@@ -1,2 +1,2 @@
-# Da-Cruz
-Programador WEB, Desktop e Android
+# Dicionário Inglês Português
+Simples rápido e facil
